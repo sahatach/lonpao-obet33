@@ -1,4 +1,3 @@
-# lonpao-obet33
 # OBET33 เว็บแทงบอล 2022 ให้บริการครบจบในเว็บเดียว
 [![This is an image](https://lonpao.com/wp-content/uploads/2022/07/01-2.webp)](https://bit.ly/3T1yIZ6)
 **เขียนโดย** ไข่น้อย | **เผยแพร่** วันที่ 7 ตุลาคม 2565
